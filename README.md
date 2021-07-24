@@ -1,2 +1,2 @@
-# Find-the-Number
+# Find-the-Number-Game
 Find  the  Number 
